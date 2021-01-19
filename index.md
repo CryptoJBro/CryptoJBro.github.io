@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Crypto JBro's Blog
 
-You can use the [editor on GitHub](https://github.com/CryptoJBro/CryptoJBro.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I see crypto and decentralization tech as leading parts of our emerging space society.  Is that dramatic enough for you?  Everyone needs to be learning about this stuff and that's what I love to do.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've been building websites since 2009 and am now obsessed with blockchain and decentralized tech since stumbling onto it in 2017.  I feel I am able to boil down these techy topics into "normal people speak".  So, that's what I do with my Youtube videos and newsletter.
 
-### Markdown
+These changes in global technology and society are becoming more rapid.  I want us to learn together so we don't get left behind.  Please leave a comment or question on one of my Youtube vids since that's the only place I respond.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CryptoJBro/CryptoJBro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+It is time we all embrace crypto and distributred systems.
